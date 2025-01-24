@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 
 ## 🤝 Connect with Me
 
-- 📫 **Email**: [joelatdm@gmail.com](mailto:joelatdm@gmail.com)  
-- 🌐 **LinkedIn**: [linkedin.com/in/joel-tito-907b11286](https://www.linkedin.com/in/joel-tito-907b11286)
+- 📫 **Email**: [joelatdm@gmail.com](mailto:joelatdm@gmail.com) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joel-tito-907b11286)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/JOT_at_LeetCode/)
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/joelatdm/)
 
