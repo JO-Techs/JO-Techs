@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 
 ---
 
-⭐️ *Let's collaborate and create something amazing!*  
+## I usually make a lot of mistakes, feel free to point them out and raise issues and pull requests 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
