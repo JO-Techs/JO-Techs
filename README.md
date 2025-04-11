@@ -60,5 +60,6 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 
 ## I usually make a lot of mistakes, feel free to point them out and raise issues and pull requests 
 <p align="center">
-  <img src="https://github.com/JO-Techs/JO-Techs/blob/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
