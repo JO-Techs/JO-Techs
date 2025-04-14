@@ -49,6 +49,8 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 
 ---
 
+##Also, regarding my learning oriented files, those files may be outdated, always cross check with the latest versions of code. Happy Coding!
+
 ## 🤝 Connect with Me
 
 - 📫 **Email**: [joelatdm@gmail.com](mailto:joelatdm@gmail.com)
