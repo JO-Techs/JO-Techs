@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 
 <div align="center">
   
-![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JO-Techs&show_icons=true&theme=radical)  
+![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JO-Techs&show_icons=true&theme=radical&cache_buster=timestamp)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JO-Techs&layout=compact&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=JO-Techs&theme=onedark&no-bg=true&no-frame=true&row=2&column=3)
