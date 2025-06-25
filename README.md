@@ -1,25 +1,25 @@
-## Hi there 👋
+## Hello! 
 
-# 💻 Joel's GitHub Profile
+#  Welcome to my GitHub
 
 Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer Science enthusiast** currently pursuing a Bachelor's in Computer Science and Engineering.
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-- 🌱 **Currently Working On**:  
+ **Currently Working On**:  
   - **Competitive Programming** challenges  
   - Building **OOP concepts** using **Python**  
   - Exploring **RISC** and **Advanced RISC Machine (ARM)** concepts passively  
   - Learning **Cloud Computing** passively  
 
-- 🛠 **Skills and Expertise**:  
+-  **Skills and Expertise**:  
   - Programming Languages: **Python**, **C**, **C++**, **C#**  
   - Frontend Basics: **HTML5**, **CSS3**  
   - Enhancing proficiency in **Java**, **CSS**, and **HTML**  
 
-- 🚀 **Active Engagement**:  
+-  **Active Engagement**:  
   - Participating in **hackathons**  
   - Working on projects to upgrade expertise in **advanced Python** and **frontend development**  
 
@@ -51,9 +51,9 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 
 ## [My repos are useless :)] Also, regarding my learning oriented files, those files may be outdated, always cross check with the latest versions of code. Happy Coding!
 
-## 🤝 Connect with Me
+##  Connect with Me
 
-- 📫 **Email**: [joelatdm@gmail.com](mailto:joelatdm@gmail.com)
+-  **Email**: [joelatdm@gmail.com](mailto:joelatdm@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joel-tito-907b11286)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/JOT_at_LeetCode/)
 - [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/joelatdm/)
