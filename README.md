@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
   - Exploring **RISC** and **Advanced RISC Machine (ARM)** concepts passively  
   - Learning **Cloud Computing** passively  
 
--  **Skills and Expertise**:  
+ **Skills and Expertise**:  
   - Programming Languages: **Python**, **C**, **C++**, **C#**  
   - Frontend Basics: **HTML5**, **CSS3**  
   - Enhancing proficiency in **Java**, **CSS**, and **HTML**  
