@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
   - Frontend Basics: **HTML5**, **CSS3**  
   - Enhancing proficiency in **Java**, **CSS**, and **HTML**  
 
--  **Active Engagement**:  
+ **Active Engagement**:  
   - Participating in **hackathons**  
   - Working on projects to upgrade expertise in **advanced Python** and **frontend development**  
 
