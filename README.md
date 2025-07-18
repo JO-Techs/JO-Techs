@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!--- <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JO-Techs&theme=transparent&hide_border=true" alt="GitHub Streak" /> --->
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JO-Techs&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
