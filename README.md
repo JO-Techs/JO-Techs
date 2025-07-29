@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 
 ---
 
-##  About Me     <br>  0.01% work per day is better than working 0.00% everyday
+##  About Me
+### 0.01% work per day is better than working 0.00% everyday
 
  **Currently Working On**:  
   - **Competitive Programming** challenges  
