@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer S
 ##  About Me
 ### 0.01% work per day is better than working 0.00% everyday
 
- **Currently Working On**:  
+ **Currently Working On**: 
+  - Computer Network Security and Cybersecurity
   - **Competitive Programming** challenges  
   - Building **OOP concepts** using **Python**  
   - Exploring **RISC** and **Advanced RISC Machine (ARM)** concepts passively  
