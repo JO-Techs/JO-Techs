@@ -2,7 +2,7 @@
 
 #  Welcome to my GitHub
 
-Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer Science enthusiast** , Python Enthusiast, AI Generalist and into the field of Cybersecurity in general & Edge Computing
+Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer Science enthusiast** , Python Enthusiast, AI Generalist and into the field of Cybersecurity & Edge Computing
 
 ---
 
