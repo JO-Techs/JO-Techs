@@ -11,7 +11,7 @@
   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░    ░▒▓█▓▒░   ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
    ░▒▓██████▓▒░ ░▒▓██████▓▒░     ░▒▓█▓▒░   ░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
 
-
+```
 Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer Science enthusiast** , Python Enthusiast, AI Generalist and into the field of Cybersecurity & Edge Computing
 
 ---
