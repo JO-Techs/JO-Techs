@@ -1,17 +1,20 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
 
-## Hello
+<br>
 
-#  Welcome to my GitHub
-```text
+<div align="center">
 
+# 👋 Hello, I'm Joel!
+**Computer Science enthusiast • Python lover • AI generalist • Cybersecurity & Edge Computing explorer**
 
+> 🧩 *0.01% work per day is better than 0.00% every day*
 
+</div>
 
+---
 
-
-```
-<div align="center"><pre><code>
+<div align="center">
 
 ```text
          ░▒▓█▓▒░ ░▒▓██████▓▒░    ▒▓████████▓▒ ░▒▓████████▓▒ ░▒▓██████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓███████▓▒░ 
@@ -23,14 +26,11 @@
    ░▒▓██████▓▒░  ░▒▓██████▓▒░      ░▒▓█▓▒░    ░▒▓████████▓▒ ░▒▓██████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ▒▓███████▓▒░  
 
 ```
-</code></pre></div>
-
-Welcome to my GitHub profile! I'm **Joel**, a passionate and driven **Computer Science enthusiast** , Python Enthusiast, AI Generalist and into the field of Cybersecurity & Edge Computing
+</di
 
 ---
 
 ##  About Me
-### 0.01% work per day is better than working 0.00% everyday
 
  **Currently Working On**: 
   - Computer Network Security and Cybersecurity
