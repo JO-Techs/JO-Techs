@@ -8,7 +8,7 @@
 # 👋 Hello, I'm Joel!
 **Computer Science enthusiast • Python lover • AI generalist • Cybersecurity & Edge Computing explorer**
 
-> 🧩 *0.01% work per day is better than 0.00% every day*
+>  *0.01% work per day is better than 0.00% every day*
 
 </div>
 
