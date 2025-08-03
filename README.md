@@ -46,7 +46,7 @@
 
  **Active Engagement**:  
   - Participating in **hackathons**  
-  - Working on projects to upgrade expertise in **advanced Python** and **frontend development**  
+  - Working on projects to upgrade expertise in **advanced Python** and **Backend development**  
 
 ---
 
