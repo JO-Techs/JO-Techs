@@ -74,8 +74,6 @@
 
 ---
 
-## [My repos are useless :)] Also, regarding my learning oriented files, those files may be outdated, always cross check with the latest versions of code. Happy Coding!
-
 ##  Connect with Me
 
 -  **Email**: [joelatdm@gmail.com](mailto:joelatdm@gmail.com)
@@ -86,6 +84,7 @@
 ---
 
 ## I usually make a lot of mistakes, feel free to point them out and raise issues and pull requests 
+## Always cross check with the latest versions of code. Happy Coding!
 <p align="center">
   <img src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-snake.svg" alt="Snake animation" />
 </p>
