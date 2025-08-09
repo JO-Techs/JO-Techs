@@ -83,8 +83,8 @@
 
 ---
 
-## I usually make a lot of mistakes, feel free to point them out and raise issues and pull requests 
-## Always cross check with the latest versions of code. Happy Coding!
+### I usually make a lot of mistakes, feel free to point them out -> raise issues and pull requests 
+### Always cross check with the latest versions of code. Happy Coding!
 <p align="center">
   <img src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-snake.svg" alt="Snake animation" />
 </p>
