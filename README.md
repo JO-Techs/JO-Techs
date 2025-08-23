@@ -82,7 +82,8 @@
 - [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/joelatdm/)
 
 ---
-
+# News
+### Some repos are temporarily kept private for fixing few issues :)
 ### I usually make a lot of mistakes, feel free to point them out -> raise issues and pull requests 
 ### Always cross check with the latest versions of code. Happy Coding!
 <p align="center">
