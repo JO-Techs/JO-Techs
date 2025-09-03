@@ -80,8 +80,8 @@
 ---
 # News
 ### Some repos are temporarily kept private for fixing few issues :)
-### I usually make a lot of mistakes, feel free to point them out -> raise issues and pull requests 
-### Always cross check with the latest versions of code. Happy Coding!
+### Find out problems -> raise issues and pull requests 
+### Always cross check with the latest versions of code.
 <p align="center">
   <img src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-snake.svg" alt="Snake animation" />
 </p>
