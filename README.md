@@ -47,8 +47,13 @@
 
  **Active Engagement**:  
   - Participating in **hackathons**  
-  - Working on projects to upgrade expertise in **advanced Python** and **Backend development**  
+  - Working on projects to upgrade expertise in **advanced Python** and **Backend development**
 
+**Things**:  
+  - Repos:  47 
+  - Projects completed: 11
+  - Projects ongoing: 5
+  - Projects archived: 2
 ---
 
 ### Technologies
