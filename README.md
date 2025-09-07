@@ -50,9 +50,9 @@
   - Working on projects to upgrade expertise in **advanced Python** and **Backend development**
 
 **Things**:  
-  - Repos:  48 
+  - Repos:  49 
   - Projects completed: 12
-  - Projects ongoing: 4
+  - Projects ongoing: 5
   - Projects archived: 2
 ---
 
