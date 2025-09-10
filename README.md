@@ -83,8 +83,8 @@
 - [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/joelatdm/)
 
 ---
-# News
-## Looking for a frontend developer to collaborate on projects and gain hands-on experience for free
+# Other Things 
+### Looking for a frontend developer to collaborate on projects and gain hands-on experience for free
 ### Some repos are temporarily kept private for fixing few issues :)
 ### Find out problems -> raise issues and pull requests 
 ### Always cross check with the latest versions of code.
