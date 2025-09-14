@@ -11,6 +11,7 @@
 ##  *Think Plan Execute*
 >  *0.01% work per day is better than 0.00% every day*
 
+> "If you can't eliminate injustice, at least tell everyone about it." 
 </div>
 
 ---
