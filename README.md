@@ -42,7 +42,7 @@
   - Learning **Cloud Computing** passively  
 
  **Skills and Expertise**:  
-  - Programming Languages: **Python**, **C**, **C++**, **C#**  
+  - Programming Languages: **Python**, **C**, **C++**, **C#**, **Java**   
   - Frontend Basics: **HTML5**, **CSS3**  
   - Enhancing proficiency in **Java**, **CSS**, and **HTML**  
 
