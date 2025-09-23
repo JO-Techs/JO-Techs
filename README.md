@@ -35,6 +35,7 @@
 ##  About Me
 
  **Currently Working On**: 
+  - Deep Learning
   - Computer Network Security and Cybersecurity
   - **Competitive Programming** challenges  
   - Building **OOP concepts** using **Python**  
