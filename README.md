@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 👋 Hello, I'm Joel!
+#  Hi I am Joel!
 **Computer Science enthusiast • Python lover • AI generalist • Cybersecurity & Edge Computing explorer**
 
 ##  *Think Plan Execute*
