@@ -86,10 +86,10 @@
 
 ---
 # Other Things 
-### Looking for a frontend developer to collaborate on projects and gain hands-on experience for free
-### Some repos are temporarily kept private for fixing few issues :)
-### Find out problems -> raise issues and pull requests 
-### Always cross check with the latest versions of code.
+- Looking for a frontend developer to collaborate on projects and gain hands-on experience for free
+- Some repos are temporarily kept private for fixing few issues :)
+- Find out problems -> raise issues and pull requests 
+- Always cross check with the latest versions of code.
 <p align="center">
   <img src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-snake.svg" alt="Snake animation" />
 </p>
