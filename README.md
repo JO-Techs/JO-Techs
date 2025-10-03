@@ -41,6 +41,7 @@
  **Currently Working On**: 
   - Deep Learning
   - Computer Network Security and Cybersecurity
+  - IOT Automation
   - **Competitive Programming** challenges  
   - Building **OOP concepts** using **Python**  
   - Exploring **RISC** and **Advanced RISC Machine (ARM)** concepts passively  
