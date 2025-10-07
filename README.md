@@ -72,12 +72,7 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JO-Techs&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-<p align="center">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JO-Techs&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
