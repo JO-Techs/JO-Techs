@@ -75,9 +75,7 @@
 <p align="center">
   <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JO-Techs&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JO-Techs&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
-</div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
