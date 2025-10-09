@@ -37,7 +37,10 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-##  About Me
+<details>
+  <summary>
+    <h3> About Me </h3>
+  </summary>
  **Currently Working On**: 
   - Deep Learning
   - Computer Network Security and Cybersecurity
@@ -67,6 +70,8 @@
 | Python | C | C# | Java | HTML5 | CSS3 |
 |--------|---|----|------|-------|------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"> |
+
+</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
