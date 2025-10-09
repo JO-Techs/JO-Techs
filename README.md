@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone;Welcome+to+my+GitHub+page;I+am+Joel;Computer+Science+enthusiast;Python+lover;AI+generalist;Cybersecurity+and+Edge+Computing+explorer" />
 </div>
 
-<h2> <b> <i> Think Plan Execute </i></b></h2>
+<h3> <b> <i> Think Plan Execute </i></b></h3>
 
 >  *0.01% work per day is better than 0.00% every day*
 
