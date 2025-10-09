@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone;Welcome+to+my+GitHub+page;I+am+Joel;Computer+Science+enthusiast;Python+lover;AI+generalist;Cybersecurity+and+Edge+Computing+explorer" />
 </div>
 
-##  *Think Plan Execute*
+<h3> <b> <i> Think Plan Execute </i></b></h3>
 
 >  *0.01% work per day is better than 0.00% every day*
 
@@ -75,7 +75,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## GitHub Stats
+<h3> GitHub Stats </h3>
 
 <p align="center">
   <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JO-Techs&theme=transparent&hide_border=true" alt="GitHub Streak" />
@@ -84,7 +84,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-##  Connect with Me
+<h3> Connect with Me </h3>
 
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joelatdm@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joel-tito-907b11286)
