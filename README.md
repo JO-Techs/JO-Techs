@@ -92,12 +92,13 @@
 - [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/joelatdm/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-# Other Things 
+<details>
+<summary><h3>Other Things</h3></summary> 
 - Looking for a frontend developer to collaborate on projects and gain hands-on experience for free
 - Some repos are temporarily kept private for fixing few issues.
 - Find out problems -> raise issues and pull requests 
 - Always cross check with the latest versions of code.
+ </details> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-snake.svg" alt="Snake animation" />
 </p>
