@@ -104,4 +104,4 @@
   <img src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
