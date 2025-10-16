@@ -108,7 +108,7 @@
  </details> 
  
 <p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+ <img width="1000" src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-snake-dark.svg#gh-dark-mode-only" alt="snake"/>
 </p>
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
