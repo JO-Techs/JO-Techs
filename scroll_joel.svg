@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="120" height="240" viewBox="0 0 120 240"
+     preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#0b1220"/>
+  <g font-family="monospace" font-size="40" fill="#ffffff" text-anchor="middle">
+    <g id="block">
+      <text x="60" y="48">J</text>
+      <text x="60" y="96">O</text>
+      <text x="60" y="144">E</text>
+      <text x="60" y="192">L</text>
+    </g>
+    <use href="#block" transform="translate(0, 240)" />
+    
+    <animateTransform attributeName="transform"
+                      attributeType="XML"
+                      type="translate"
+                      from="0,0"
+                      to="0,-240"
+                      dur="3.5s"
+                      repeatCount="indefinite"
+                      calcMode="linear" />
+  </g>
+</svg>
