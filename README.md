@@ -71,6 +71,8 @@
 
 ### Things I Know
 
+<div align="center">
+
 | Python | VS Code | Git | Postman | PostgreSQL | Docker | Java | Kubernetes | HTML5 |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45"/> |
@@ -79,7 +81,7 @@
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="45" height="45"/> |
 
-
+</div>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
