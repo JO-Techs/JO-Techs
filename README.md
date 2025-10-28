@@ -79,7 +79,7 @@
 
 | Kubernetes | HTML5 | CSS3 | Node.js | React | MySQL | 
 |----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 
 | C# | Unity3D | C | Numpy |
 |----------|----------|----------|----------|
