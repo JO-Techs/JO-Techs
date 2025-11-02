@@ -14,10 +14,6 @@
 
 <h3> <b> <i> Think Plan Execute </i></b></h3>
 
->  *0.01% work per day is better than 0.00% every day*
-
-> If you can't eliminate injustice, at least tell everyone about it
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
