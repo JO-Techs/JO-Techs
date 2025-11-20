@@ -59,8 +59,8 @@
 
 **Things**:  
   - Repos:  58
-  - Projects completed: 13
-  - Projects ongoing: 5
+  - Projects completed: 14
+  - Projects ongoing: 4
   - Projects archived: 2
 
 </details>
