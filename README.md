@@ -60,7 +60,7 @@
   - Repos:  58
   - Projects completed: 14
   - Projects ongoing: 4
-  - Projects archived: 2
+  - Projects archived: 3
 
 </details>
 
