@@ -119,4 +119,8 @@
  <img width="1000" src="https://raw.githubusercontent.com/JO-Techs/JO-Techs/output/github-snake-dark.svg#gh-dark-mode-only" alt="snake"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=JO-Techs&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+</p>
+
 <p align="center"><a href="#readme-top">Go to TOP</a></p>
