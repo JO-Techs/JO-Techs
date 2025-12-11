@@ -87,8 +87,10 @@
 
 <h3> GitHub Stats </h3>
 
+
 <p align="center">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JO-Techs&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <!--<img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JO-Techs&theme=transparent&hide_border=true" alt="GitHub Streak" />-->
+  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=JO-Techs&theme=merko&border=599200">
 </p>
 
 
