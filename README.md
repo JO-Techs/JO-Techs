@@ -111,7 +111,6 @@
   </summary> 
   
 - Looking for a frontend developer to collaborate on projects and gain hands-on experience for free
-- Some repos are temporarily kept private for fixing few issues.
 - Find out problems -> raise issues and pull requests 
 - Always cross check with the latest versions of code.
   
