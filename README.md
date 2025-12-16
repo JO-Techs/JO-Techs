@@ -15,7 +15,8 @@
 <h3> <b> <i> Think Plan Execute </i></b></h3>
 
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <div align="center">
@@ -31,7 +32,8 @@
 
 ```
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <details>
   <summary>
@@ -62,6 +64,9 @@
   - Projects ongoing: 5
   - Projects archived: 3
 
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 </details>
 
 ### Things I Know
@@ -82,8 +87,8 @@
 
 </div>
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3> GitHub Stats </h3>
 
@@ -93,8 +98,8 @@
   <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=JO-Techs&theme=merko&border=599200">
 </p>
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3> Connect with Me </h3>
 
@@ -103,7 +108,8 @@
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/JOT_at_LeetCode/)
 - [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/joelatdm/)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <details>
   
   <summary>
