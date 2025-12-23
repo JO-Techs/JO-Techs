@@ -1,5 +1,6 @@
+<!-- Back to top button -->
 <a id="readme-top"></a>
- 
+<!-- Animation writing -->
 <div align="center">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=C0FF45&center=true&vCenter=true&width=900&height=80&lines=Hello;Welcome+to+my+GitHub+page;I+am+Joel;Computer+Science+enthusiast;Python+lover;AI+generalist;Cybersecurity+and+Edge+Computing+explorer" />
