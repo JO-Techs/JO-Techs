@@ -76,9 +76,9 @@
 |----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"/> |
 
-| C# | Unity3D | C | Numpy |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="45" height="45"/> |
+| C# | Unity3D | C | Numpy | Tableau |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="45" height="45"/> | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> |
 
 </div>
 
