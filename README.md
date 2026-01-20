@@ -7,12 +7,14 @@
 </div>
 
  
-<h3> <b> <i> Think Plan Execute </i></b></h3>
+<!--<h3> <b> <i> Think Plan Execute </i></b></h3>-->
 
 </div>
+
+
+<!--
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 <div align="center">
 
@@ -29,10 +31,15 @@
 </div>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+-->
 <details>
-  <summary>
-    <h3> About Me </h3>
+  <summary align="center">
+    <img
+      src="banner.svg"
+      alt="About Me"
+      width="600"
+      style="cursor:pointer;"
+    />
   </summary>
   
  **Currently Working On**: 
@@ -64,9 +71,11 @@
 
 </details>
 
+<div align="center">
+  
 ### Things I Know
 
-<div align="center">
+
 
 | Python | VS Code | Git | Postman | PostgreSQL | Docker | Java | 
 |----------|----------|----------|----------|----------|----------|----------|
