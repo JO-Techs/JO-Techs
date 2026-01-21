@@ -89,6 +89,11 @@
 |----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="45" height="45"/> | <img src="https://github.com/JO-Techs/JO-Techs/blob/main/assets/tableau-icon.svg"/> | <img src="https://github.com/JO-Techs/JO-Techs/blob/main/assets/powerbi.svg" width="45" height="45"/> |
 
+|OpenCV | Pandas |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|
+
+
 </div>
 
 <p align="center">
