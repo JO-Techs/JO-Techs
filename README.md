@@ -77,9 +77,9 @@
 
 
 
-| Python | VS Code | Git | Postman | PostgreSQL | Docker | Java | 
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45" height="45"/> | 
+| Python | Django | VS Code | Git | Postman | PostgreSQL | Docker | Java | 
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45" height="45"/> | 
 
 | Kubernetes | HTML5 | CSS3 | Node.js | React | MySQL | 
 |----------|----------|----------|----------|----------|----------|
