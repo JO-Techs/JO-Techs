@@ -110,12 +110,26 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3> Connect with Me </h3>
+<h3 align="center">Connect with Me</h3>
 
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joelatdm@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joel-tito-907b11286)
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/JOT_at_LeetCode/)
-- [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/joelatdm/)
+<div style="display:flex; justify-content:space-evenly; align-items:center; width:100%; max-width:800px; margin:auto;">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joelatdm@gmail.com">
+    <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/joel-tito-907b11286">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/JOT_at_LeetCode/">
+    <img height="40" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/joelatdm/">
+    <img height="40" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</div>
+
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
