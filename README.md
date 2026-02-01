@@ -61,10 +61,10 @@
   - Working on projects to upgrade expertise in **advanced Python** and **Backend development**
 
 **Things**:  
-  - Repos:  65
+  - Repos:  66
   - Projects completed: 14
   - Projects ongoing: 5
-  - Projects archived: 3
+  - Projects archived: 4
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
