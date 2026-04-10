@@ -154,3 +154,25 @@
 </p>
 
 <p align="center"><a href="#readme-top">Go to TOP</a></p>
+
+### Python
+
+- [Basics](https://Coming_Soon!)
+
+### Flutter
+
+- [Basics](https://Coming_Soon!)
+
+### Network
+
+- [Basics](https://Coming_Soon!)
+
+### Cloud
+
+- [Basics](https://Coming_Soon!)
+
+### Edge
+
+- [Basics](https://Coming_Soon!)
+
+<p align="center"><a href="#readme-top">Go to TOP</a></p>
