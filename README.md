@@ -112,7 +112,10 @@
 
 <h3 align="center">Connect with Me</h3>
 
+<div align="center">
+  
 <div style="display:flex; justify-content:space-evenly; align-items:center; width:100%; max-width:800px; margin:auto;">
+  
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joelatdm@gmail.com">
     <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -128,8 +131,9 @@
   <a href="https://www.geeksforgeeks.org/user/joelatdm/">
     <img height="40" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
+  
 </div>
-
+</div>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
