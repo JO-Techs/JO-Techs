@@ -143,7 +143,7 @@
     <h3>Other Things</h3>
   </summary> 
   
-- Looking for a frontend developer to collaborate on projects and gain hands-on experience for free
+- Looking for a frontend developer to work on projects.
 - Find out problems -> raise issues and pull requests 
 - Always cross check with the latest versions of code.
   
