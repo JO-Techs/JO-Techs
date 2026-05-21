@@ -161,7 +161,7 @@
 
 ### Python
 
-- [Basics]([https://Coming_Soon!](https://github.com/JO-Techs/Learn_Python/edit/main/README.md))
+- [Basics](https://github.com/JO-Techs/Learn_Python/edit/main/README.md)
 
 ### Flutter
 
