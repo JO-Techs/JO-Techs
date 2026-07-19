@@ -3,7 +3,7 @@
 <!-- Animation writing -->
 <div align="center">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=C0FF45&center=true&vCenter=true&width=900&height=80&lines=Hello;Welcome+to+my+GitHub+page;I+am+Joel;AI+generalist;Cybersecurity+and+Edge+Computing+enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=C0FF45&center=true&vCenter=true&width=900&height=80&lines=Hello;Welcome+to+my+GitHub+page;I+am+Joel;AI+generalist;Cybersecurity+and+Edge+Computing+enthusiast;I+Like+to+Code+in+Python;Checkout+My+Work+Here;If+You+are+still+here+...+Follow+Me+on+Github" />
 </div>
 
  
