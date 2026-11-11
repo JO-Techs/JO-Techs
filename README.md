@@ -61,9 +61,9 @@
   - Working on projects to upgrade expertise in **advanced Python** and **Backend development**
 
 **Things**:  
-  - Projects completed: 14
-  - Projects ongoing: 4
-  - Projects archived: 8
+  - Projects completed: 17
+  - Projects ongoing: 5
+  - Projects archived: 12
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
